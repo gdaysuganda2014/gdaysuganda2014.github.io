@@ -6,8 +6,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "G Days Uganda"
-email: "gdgmakererere@googlegroups.com"
-description: "Android: Making good apps great!"
+email: "gdaysuganda@gmail.com"
+description: "Bridging the Gap Between Developers & Business Owners"
 baseurl: ""
 url: "http://gdaysuganda2014.github.io"
 permalink: "/blog/:title"
@@ -23,8 +23,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/111272613539973122492/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, developers, makerere"
-twitterAccount: "@GdgMakerere"
+metaKeywords: "event, gdg, gdays, google, programming, android, developers, uganda"
+twitterAccount: "@GdaysUg"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -191,7 +191,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "G | Days Uganda is a community-organizzed conference with the mission of building an ecosystem of top developers, business owners, decision makers, and students in Uganda. The event this year is powered by the Google Developer Groups, Google Business Groups and Google Student Ambassadors."
 
 # Logistics Find Way Block
 # findWayTitle: "Find your way here"
