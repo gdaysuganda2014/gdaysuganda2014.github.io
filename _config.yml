@@ -51,7 +51,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "G | Days Uganda 2014 <typeout>"
-eventDate: "18th October, 2014"
+eventDate: "29th November, 2014"
 typeoutTextValues: '"", "Apps", "Android", "Codelabs", "Cloud"'
 typeoutFallback: "Android"
 heroButtons:
@@ -59,7 +59,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About G | Days"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Android centred talks carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Codelabs", image: "workshop.jpg", text: "Codelabs, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -69,7 +69,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "Students, Developers, Designers on campus"}
- - {count: "5", specialCharacter: "+", info: "hours", detail: "of in depth Android talks and codelabs"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of in depth Android talks and codelabs"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "With great experience"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
@@ -86,9 +86,9 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "Uganda Christian University"
 eventLocationLink: "http://ucu.ac.ug/"
-eventStreetAddress: "Technology New Building"
+eventStreetAddress: "UCU"
 eventAddressLocality: "Makerere University"
-eventAddressLocalityRegion: "Kampala"
+eventAddressLocalityRegion: "Mukono"
 eventPostalCode: 
 eventAddressCountry: "Uganda"
 eventStartTime: "2014-10-25T09:00"
@@ -110,7 +110,7 @@ mapMobileCenterCoordinates: "0.336631, 32.564329"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfestmakerere"
+twitterHashTag: "GdaysUganda"
 twitterFeed: 
 
 # Partners Block
